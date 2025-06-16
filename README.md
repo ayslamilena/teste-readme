@@ -32,12 +32,39 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+🚀 Recursos Utilizados
+Linguagem de Programação:
 
-- **Linguagem:** JavaScript  
-- **Biblioteca:** p5.js  
-- **Ambiente:** p5.js Web Editor  
-- **Publicação:** GitHub 
+JavaScript: A base de toda a lógica e interatividade do jogo.
+Biblioteca:
+
+p5.js: Essencial para a criação gráfica, animações, manipulação de áudio e eventos do usuário.
+Ambiente de Desenvolvimento:
+
+p5.js Web Editor: Ambiente online para codificação e prototipagem rápida.
+GitHub: Utilizado para versionamento e hospedagem do código-fonte.
+Funções e Conceitos do p5.js:
+
+Estrutura Básica: setup(), draw(), preload().
+Desenho e Gráficos: createCanvas(), rect(), circle(), image(), text(), fill(), stroke(), manipulação de cores.
+Interatividade e Eventos: mousePressed(), dist().
+Animação e Matemática: map(), lerp(), random(), constrain(), shuffle().
+Vetores: createVector(), p5.Vector (para movimento e física das partículas).
+Mídia (Imagens e Sons): loadImage(), loadSound().
+Controle de Áudio: Métodos como .play(), .setVolume(), .loop(), .pause(), .stop().
+Manipulação de Tempo: millis() para controle de animações e transições; setTimeout() para atrasar ações no jogo (como a verificação de pares de cartas).
+
+  
+---
+## 📚 Links Úteis para Estudo e Consulta
+
+Para o desenvolimento do projeto e consulta de recursos foi utilizado:
+
+* **p5.js - Documentação Oficial:**
+    * [https://p5js.org/reference/](https://p5js.org/reference/)
+
+* **Mozilla Developer Network (MDN) - JavaScript:**
+    * [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
