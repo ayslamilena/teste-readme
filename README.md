@@ -57,21 +57,21 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 
 🖼️ **Imagens:**
 
-| Nome/Descrição    | Fonte / Autor                                      | Licença               |
-|-------------------|---------------------------------------------------|-----------------------|
-| Trigo       | [Pixabay](https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/)                   | gratuita |
-| Fundo Cidade      | [Unsplash](https://unsplash.com/)                  | Gratuita              |
-| Adicione mais aqui | [Adicione a fonte/autor aqui](#)                  | Adicione a licença aqui|
+| Nome/Descrição    | Fonte / Autor                                                | Licença               |
+|-------------------|-------------------------------------------------------------|-----------------------|
+| Fundo Campo       | <a href="https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/" target="_blank">Pixabay</a> | CC0 - Domínio Público |
+| Fundo Cidade      | <a href="https://unsplash.com/" target="_blank">Unsplash</a>| Gratuita              |
+| Adicione mais aqui | <a href="#" target="_blank">Adicione a fonte/autor aqui</a> | Adicione a licença aqui|
 
 ---
 
 🎶 **Sons:**
 
-| Nome/Descrição    | Fonte / Autor                                      | Licença               |
-|-------------------|---------------------------------------------------|-----------------------|
-| Som de pássaros   | [Freesound](https://freesound.org/)               | Creative Commons      |
-| Ruído da cidade   | [Mixkit](https://mixkit.co/)                       | Gratuito              |
-| Adicione mais aqui | [Adicione a fonte/autor aqui](#)                   | Adicione a licença aqui|
+| Nome/Descrição    | Fonte / Autor                                                | Licença               |
+|-------------------|-------------------------------------------------------------|-----------------------|
+| Som de pássaros   | <a href="https://freesound.org/" target="_blank">Freesound</a>| Creative Commons    |
+| Ruído da cidade   | <a href="https://mixkit.co/" target="_blank">Mixkit</a>      | Gratuito              |
+| Adicione mais aqui | <a href="#" target="_blank">Adicione a fonte/autor aqui</a> | Adicione a licença aqui|
 
 ---
 
