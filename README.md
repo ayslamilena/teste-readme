@@ -90,7 +90,6 @@ Como o Markdown ignora target="_blank", use clique com a scroll do mouse para ac
 | Nome/Descrição    | Fonte / Autor                                      | Licença               |
 |-------------------|---------------------------------------------------|-----------------------|
 | EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
-| Triangle loops baiao 190203 | [Pixabay](https://pixabay.com/pt/sound-effects/triangle-loops-baiao-190203/)               | gratuita      |
 | Winning Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/winning-loop-228639/)               | gratuita      |
 | Traffic in City   | [Pixabay](https://pixabay.com/pt/sound-effects/traffic-in-city-309236/)               | gratuita      |
 | Passarinho   | [Pixabay](https://pixabay.com/pt/sound-effects/passarinho-325866/)               | gratuita      |
