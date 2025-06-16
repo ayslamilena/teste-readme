@@ -50,21 +50,28 @@ link do vercel adicionar
 É recomendado que o projeto seja acessado atraves do deploy para evitar sobreposicões de elementos caso projeto seja copiado e colocado no p5.js editor
 Interaja com o projeto, sigua as intrucoes presentes e descubra a Conexão Campo-Cidade em ação!
 
-🎵 Atribuição de Imagens e Sons
+🎵 **Atribuição de Imagens e Sons**  
 Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e sonoros de fontes livres, seguindo as melhores práticas de atribuição.
 
-🖼️ Imagens:
-Nome/Descrição	Fonte / Autor	Licença
-Exemplo: Fundo Campo	Pixabay	CC0 - Domínio Público
-Exemplo: Fundo Cidade	Unsplash	Gratuita
-Adicione mais aqui	Adicione a fonte/autor aqui	Adicione a licença aqui
+---
 
-Exportar para as Planilhas
-🎶 Sons:
-Nome/Descrição	Fonte / Autor	Licença
-Exemplo: Som de pássaros	Freesound	Creative Commons
-Exemplo: Ruído da cidade	Mixkit	Gratuito
-Adicione mais aqui	Adicione a fonte/autor aqui	Adicione a licença aqui
+🖼️ **Imagens:**
 
-Exportar para as Planilhas
+| Nome/Descrição  | Fonte / Autor | Licença           |
+|-----------------|---------------|-------------------|
+| Fundo Campo     | Pixabay       | CC0 - Domínio Público |
+| Fundo Cidade    | Unsplash      | Gratuita          |
+| Adicione mais aqui | Adicione a fonte/autor aqui | Adicione a licença aqui |
+
+---
+
+🎶 **Sons:**
+
+| Nome/Descrição    | Fonte / Autor | Licença          |
+|-------------------|---------------|------------------|
+| Som de pássaros   | Freesound     | Creative Commons |
+| Ruído da cidade   | Mixkit        | Gratuito         |
+| Adicione mais aqui | Adicione a fonte/autor aqui | Adicione a licença aqui |
+
+---
 
