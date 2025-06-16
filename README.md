@@ -22,7 +22,7 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
   - *Títulos animados* com efeito de fade-in gradual para um toque profissional.  
   - *Botões dinâmicos* que reagem ao mouse com efeitos visuais de "foguinhos" coloridos.  
   - *Fogos de artifício* aparecem ao encontrar pares, reforçando a sensação de conquista.
-  - - *Sons* recursos sonoros durante o jogo e ativados com o clique
+  -  *Sons* recursos sonoros durante o jogo e ativados com o clique
 
 - **Mensagem Final Impactante**  
   Ao concluir o jogo, uma mensagem reflexiva reforça a importância da interdependência entre campo e cidade.
