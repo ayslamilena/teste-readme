@@ -15,9 +15,6 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
 - **Jogo da Memória Temático**  
   Cada par encontrado revela uma conexão essencial entre campo e cidade, como "Alimento", "Água", "Energia", entre outros.
 
-- **Design Responsivo**  
-  A interface adapta-se a diferentes tamanhos de tela, garantindo boa experiência em dispositivos variados, com alertas para telas pequenas visando otimização.
-
 - **Transições Suaves**  
   Navegação fluida entre telas de introdução, instruções, jogo e finalização, proporcionando uma jornada agradável para o usuário.
 
@@ -25,6 +22,7 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
   - *Títulos animados* com efeito de fade-in gradual para um toque profissional.  
   - *Botões dinâmicos* que reagem ao mouse com efeitos visuais de "foguinhos" coloridos.  
   - *Fogos de artifício* aparecem ao encontrar pares, reforçando a sensação de conquista.
+  - - *Sons* recursos sonoros durante o jogo e ativados com o clique
 
 - **Mensagem Final Impactante**  
   Ao concluir o jogo, uma mensagem reflexiva reforça a importância da interdependência entre campo e cidade.
@@ -39,17 +37,34 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
 - **Linguagem:** JavaScript  
 - **Biblioteca:** p5.js  
 - **Ambiente:** p5.js Web Editor  
-- **Publicação:** GitHub (hashtag `#agrinho`)
+- **Publicação:** GitHub 
 
 ---
 
-## 🧱 Estrutura e Qualidade do Código
+▶️ Como Executar o Projeto
+É muito simples interagir, basta acessar um dos links abaixo:
 
-- **Organização e Indentação:** Código limpo, padronizado e fácil de entender.  
-- **Comentários Explicativos:** Funções e blocos comentados para clareza e entendimento.  
-- **Nomenclatura Descritiva:** Exemplo de funções e variáveis autoexplicativas:  
-  ```js
-  desenharCampo()
-  desenharCidade()
-  verificarColisao()
-  atualizarMovimento()
+link do githubpages adicionar
+link do vercel adicionar
+
+É recomendado que o projeto seja acessado atraves do deploy para evitar sobreposicões de elementos caso projeto seja copiado e colocado no p5.js editor
+Interaja com o projeto, sigua as intrucoes presentes e descubra a Conexão Campo-Cidade em ação!
+
+🎵 Atribuição de Imagens e Sons
+Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e sonoros de fontes livres, seguindo as melhores práticas de atribuição.
+
+🖼️ Imagens:
+Nome/Descrição	Fonte / Autor	Licença
+Exemplo: Fundo Campo	Pixabay	CC0 - Domínio Público
+Exemplo: Fundo Cidade	Unsplash	Gratuita
+Adicione mais aqui	Adicione a fonte/autor aqui	Adicione a licença aqui
+
+Exportar para as Planilhas
+🎶 Sons:
+Nome/Descrição	Fonte / Autor	Licença
+Exemplo: Som de pássaros	Freesound	Creative Commons
+Exemplo: Ruído da cidade	Mixkit	Gratuito
+Adicione mais aqui	Adicione a fonte/autor aqui	Adicione a licença aqui
+
+Exportar para as Planilhas
+
