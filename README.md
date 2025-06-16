@@ -1,5 +1,10 @@
 # 🌾 Projeto Agrinho 2025 - **"Festejando Conexão Campo e Cidade"** 🏙️
 
+## Deploy - Recomenda-se acessar o projeto por um dos links abaixo
+ *   [GitHub Pages](link)
+ *   [Vercel](link)
+ *   [p5.js Editor - Tela Cheia](link)
+
 ---
 ![Foto do Projeto](agrinho2025.png)
 ## 🎯 Sobre o Projeto
