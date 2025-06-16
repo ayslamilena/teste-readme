@@ -89,7 +89,7 @@ Como o Markdown ignora target="_blank", use clique com a scroll do mouse para ac
 
 | Nome/Descrição    | Fonte / Autor                                      | Licença               |
 |-------------------|---------------------------------------------------|-----------------------|
-| Som de pássaros   | [Freesound](https://freesound.org/)               | Creative Commons      |
+| EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
 | Ruído da cidade   | [Mixkit](https://mixkit.co/)                       | Gratuito              |
 | Adicione mais aqui | [Adicione a fonte/autor aqui](#)                   | Adicione a licença aqui|
 
