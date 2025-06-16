@@ -1,7 +1,7 @@
 # 🌾 Projeto Agrinho 2025 - **"Festejando Conexão Campo e Cidade"** 🏙️
 
 ---
-
+![Foto do Projeto](agrinho2025.png)
 ## 🎯 Sobre o Projeto
 
 Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de criar uma experiência interativa que ilustra a profunda e vital conexão entre o campo e a cidade. Através de elementos gráficos e interatividade, mostramos como esses dois ambientes se complementam, ressaltando a importância mútua para o desenvolvimento sustentável.
