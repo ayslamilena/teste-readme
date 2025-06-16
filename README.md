@@ -65,9 +65,9 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 | vaca-leite-vaca-de-leite-branco       | [Pixabay](https://pixabay.com/pt/photos/vaca-leite-vaca-de-leite-branco-4909684/)                   | Gratuita              |
 | rio-outono-arvores-folhas-folhagem       | [Pixabay](https://pixabay.com/pt/photos/rio-outono-arvores-folhas-folhagem-219972/)                   | Gratuita              |
 | agua-gotas-respingo       | [Pixabay](https://pixabay.com/pt/photos/agua-gotas-respingo-got%C3%ADcula-4967843/)                   | Gratuita              |
-| troncos-de-árvore-madeira       | [Pixabay]((https://pixabay.com/pt/photos/troncos-de-%C3%A1rvore-madeira-6707746/))                   | Gratuita              |
-| carpinteiro-avião-aparas-de-madeira       | [Pixabay]((https://pixabay.com/pt/photos/carpinteiro-avi%C3%A3o-aparas-de-madeira-4015109/))                   | Gratuita              |
-| grãos-de-café-café-cafeína       | [Pixabay]((https://pixabay.com/pt/photos/gr%C3%A3os-de-caf%C3%A9-caf%C3%A9-cafe%C3%ADna-7126154/))                   | Gratuita              |
+| troncos-de-árvore-madeira       | [Pixabay](https://pixabay.com/pt/photos/troncos-de-%C3%A1rvore-madeira-6707746/))                   | Gratuita              |
+| carpinteiro-avião-aparas-de-madeira       | [Pixabay](https://pixabay.com/pt/photos/carpinteiro-avi%C3%A3o-aparas-de-madeira-4015109/)                   | Gratuita              |
+| grãos-de-café-café-cafeína       | [Pixabay](https://pixabay.com/pt/photos/gr%C3%A3os-de-caf%C3%A9-caf%C3%A9-cafe%C3%ADna-7126154/)                   | Gratuita              |
 | café-café-moído-cafeteria       | [Pixabay](https://pixabay.com/pt/photos/caf%C3%A9-caf%C3%A9-mo%C3%ADdo-cafeteria-206142/)                   | Gratuita              |
 | Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
 | Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
