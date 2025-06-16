@@ -32,29 +32,68 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
 
 ---
 
-🚀 Recursos Utilizados
-Linguagem de Programação:
+## 🚀 Recursos Utilizados
 
-JavaScript: A base de toda a lógica e interatividade do jogo.
-Biblioteca:
+### Linguagem de Programação
+- **JavaScript:** A base de toda a lógica e interatividade do jogo.
 
-p5.js: Essencial para a criação gráfica, animações, manipulação de áudio e eventos do usuário.
-Ambiente de Desenvolvimento:
+### Biblioteca
+- **p5.js:** Essencial para a criação gráfica, animações, manipulação de áudio e eventos do usuário.
 
-p5.js Web Editor: Ambiente online para codificação e prototipagem rápida.
-GitHub: Utilizado para versionamento e hospedagem do código-fonte.
-Funções e Conceitos do p5.js:
+### Ambiente de Desenvolvimento
+- **p5.js Web Editor:** Ambiente online para codificação e prototipagem rápida.
+- **GitHub:** Utilizado para versionamento e hospedagem do código-fonte.
 
-Estrutura Básica: setup(), draw(), preload().
-Desenho e Gráficos: createCanvas(), rect(), circle(), image(), text(), fill(), stroke(), manipulação de cores.
-Interatividade e Eventos: mousePressed(), dist().
-Animação e Matemática: map(), lerp(), random(), constrain(), shuffle().
-Vetores: createVector(), p5.Vector (para movimento e física das partículas).
-Mídia (Imagens e Sons): loadImage(), loadSound().
-Controle de Áudio: Métodos como .play(), .setVolume(), .loop(), .pause(), .stop().
-Manipulação de Tempo: millis() para controle de animações e transições; setTimeout() para atrasar ações no jogo (como a verificação de pares de cartas).
+### Funções e Conceitos do p5.js
 
-  
+#### Estrutura Básica
+- `setup()`
+- `draw()`
+- `preload()`
+
+#### Desenho e Gráficos
+- `createCanvas()`
+- `rect()`
+- `circle()`
+- `image()`
+- `text()`
+- `fill()`
+- `stroke()`
+- Manipulação de cores
+
+#### Interatividade e Eventos
+- `mousePressed()`
+- `dist()`
+
+#### Animação e Matemática
+- `map()`
+- `lerp()`
+- `random()`
+- `constrain()`
+- `shuffle()`
+
+#### Vetores
+- `createVector()`
+- `p5.Vector` (para movimento e física das partículas)
+
+#### Mídia (Imagens e Sons)
+- `loadImage()`
+- `loadSound()`
+
+#### Controle de Áudio
+- `.play()`
+- `.setVolume()`
+- `.loop()`
+- `.pause()`
+- `.stop()`
+
+#### Manipulação de Tempo
+- `millis()` para controle de animações e transições
+- `setTimeout()` para atrasar ações no jogo (como a verificação de pares de cartas)
+
+#### Programação Orientada a Objetos (POO)
+- Uso de **classes** (`Carta`, `BotaoRedondo`, `Foguinho`) para modelar os elementos do jogo, encapsulando propriedades e comportamentos e promovendo a reutilização de código.
+
 ---
 ## 📚 Links Úteis para Estudo e Consulta
 
