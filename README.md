@@ -57,6 +57,8 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 
 🖼️ **Imagens:**
 
+Como o Markdown ignora target="_blank", use clique com a scroll do mouse para acessar os links em nova guia.
+
 | Nome/Descrição    | Fonte / Autor                                      | Licença               |
 |-------------------|---------------------------------------------------|-----------------------|
 | trigo-campo-campo-de-trigo-cevada      | [Pixabay](https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/)                   | Gratuita              |
