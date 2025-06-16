@@ -91,7 +91,7 @@ Como o Markdown ignora target="_blank", use clique com a scroll do mouse para ac
 |-------------------|---------------------------------------------------|-----------------------|
 | EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
 | Triangle loops baiao 190203 | [Pixabay](https://pixabay.com/pt/sound-effects/triangle-loops-baiao-190203/)               | gratuita      |
-| EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
+| Winning Loop   | [Pixabay]([https://pixabay.com/pt/sound-effects/edm-loop-319038/](https://pixabay.com/pt/sound-effects/winning-loop-228639/))               | gratuita      |
 | EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
 | EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
 
