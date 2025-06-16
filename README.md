@@ -57,21 +57,22 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 
 🖼️ **Imagens:**
 
-| Nome/Descrição  | Fonte / Autor | Licença           |
-|-----------------|---------------|-------------------|
-| Fundo Campo     | Pixabay       | CC0 - Domínio Público |
-| Fundo Cidade    | Unsplash      | Gratuita          |
-| Adicione mais aqui | Adicione a fonte/autor aqui | Adicione a licença aqui |
+| Nome/Descrição    | Fonte / Autor                                      | Licença               |
+|-------------------|---------------------------------------------------|-----------------------|
+| Trigo       | [Pixabay](https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/)                   | gratuita |
+| Fundo Cidade      | [Unsplash](https://unsplash.com/)                  | Gratuita              |
+| Adicione mais aqui | [Adicione a fonte/autor aqui](#)                  | Adicione a licença aqui|
 
 ---
 
 🎶 **Sons:**
 
-| Nome/Descrição    | Fonte / Autor | Licença          |
-|-------------------|---------------|------------------|
-| Som de pássaros   | Freesound     | Creative Commons |
-| Ruído da cidade   | Mixkit        | Gratuito         |
-| Adicione mais aqui | Adicione a fonte/autor aqui | Adicione a licença aqui |
+| Nome/Descrição    | Fonte / Autor                                      | Licença               |
+|-------------------|---------------------------------------------------|-----------------------|
+| Som de pássaros   | [Freesound](https://freesound.org/)               | Creative Commons      |
+| Ruído da cidade   | [Mixkit](https://mixkit.co/)                       | Gratuito              |
+| Adicione mais aqui | [Adicione a fonte/autor aqui](#)                   | Adicione a licença aqui|
 
 ---
+
 
