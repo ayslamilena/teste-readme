@@ -65,21 +65,21 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 | vaca-leite-vaca-de-leite-branco       | [Pixabay](https://pixabay.com/pt/photos/vaca-leite-vaca-de-leite-branco-4909684/)                   | Gratuita              |
 | rio-outono-arvores-folhas-folhagem       | [Pixabay](https://pixabay.com/pt/photos/rio-outono-arvores-folhas-folhagem-219972/)                   | Gratuita              |
 | agua-gotas-respingo       | [Pixabay](https://pixabay.com/pt/photos/agua-gotas-respingo-got%C3%ADcula-4967843/)                   | Gratuita              |
-| troncos-de-árvore-madeira       | [Pixabay](https://pixabay.com/pt/photos/troncos-de-%C3%A1rvore-madeira-6707746/))                   | Gratuita              |
+| troncos-de-árvore-madeira       | [Pixabay](https://pixabay.com/pt/photos/troncos-de-%C3%A1rvore-madeira-6707746/)                   | Gratuita              |
 | carpinteiro-avião-aparas-de-madeira       | [Pixabay](https://pixabay.com/pt/photos/carpinteiro-avi%C3%A3o-aparas-de-madeira-4015109/)                   | Gratuita              |
 | grãos-de-café-café-cafeína       | [Pixabay](https://pixabay.com/pt/photos/gr%C3%A3os-de-caf%C3%A9-caf%C3%A9-cafe%C3%ADna-7126154/)                   | Gratuita              |
 | café-café-moído-cafeteria       | [Pixabay](https://pixabay.com/pt/photos/caf%C3%A9-caf%C3%A9-mo%C3%ADdo-cafeteria-206142/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Adicione mais aqui | [Adicione a fonte/autor aqui](#)                  | Adicione a licença aqui|
+| energia-fluxo-agua       | [Pixabay](https://pixabay.com/pt/photos/energia-fluxo-agua-2976738/)                   | Gratuita              |
+| luminária-luz-mão-idéia-lâmpada       | [Pixabay](https://pixabay.com/pt/photos/lumin%C3%A1ria-luz-m%C3%A3o-id%C3%A9ia-l%C3%A2mpada-2663053/)                   | Gratuita              |
+| agricultor-agricultura-campos      | [Pixabay](https://pixabay.com/pt/photos/agricultor-agricultura-campos-8294716/)                   | Gratuita              |
+| Feira cidade       | [Google](https://images.app.goo.gl/e4cUGnKpVvGXcYWL9)                   | creative commons - Ramiro Furquim             |
+| abelhas-apicultura-apiário-colmeias       | [Pixabay](https://pixabay.com/pt/photos/abelhas-apicultura-api%C3%A1rio-colmeias-7170198/)                   | Gratuita              |
+| querida-amarelo-apicultor-natureza       | [Pixabay](https://pixabay.com/pt/photos/querida-amarelo-apicultor-natureza-1958464/)                   | Gratuita              |
+| zangão-vôo-câmera-controle-remoto       | [Pixabay](https://pixabay.com/pt/photos/zang%C3%A3o-v%C3%B4o-c%C3%A2mera-controle-remoto-1866742/)                   | Gratuita              |
+| Uma pessoa trabalhando em um equipamento em uma mesa       | [Unsplash](https://unsplash.com/pt-br/fotografias/uma-pessoa-trabalhando-em-um-equipamento-em-uma-mesa-3PJNIvkf-Tw)                   | Gratuita              |
+| a-criação-de-galinhas-poedeira       | [Pixabay](https://pixabay.com/pt/photos/a-cria%C3%A7%C3%A3o-de-galinhas-poedeiras-4133960/)                   | Gratuita              |
+| ovo-frito-frigideira-refeição-grade       | [Pixabay](https://pixabay.com/pt/photos/ovo-frito-frigideira-refei%C3%A7%C3%A3o-grade-3238173/)                   | Gratuita              |
+| imagem tela inicial - Gerado por IA - prompt: gostaria que gerrase uma imagem de fundo para meu projeto, com o tema festejando conexao campo cidade, precisa ter campo, cidade, ser uma imagem realista e que fique um contraste bom com as cores da tela inicial | [Gemini](https://gemini.google.com/?hl=pt-BR)                  | Imagem gerada por Gemini|
 
 ---
 
