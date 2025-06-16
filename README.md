@@ -59,8 +59,8 @@ Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e son
 
 | Nome/Descrição    | Fonte / Autor                                      | Licença               |
 |-------------------|---------------------------------------------------|-----------------------|
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
-| Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
+| trigo-campo-campo-de-trigo-cevada      | [Pixabay](https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/)                   | Gratuita              |
+| padaria-pães-sortido-sortimento       | [Pixabay](https://pixabay.com/pt/photos/padaria-p%C3%A3es-sortido-sortimento-1868925/)                   | Gratuita              |
 | Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
 | Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
 | Fundo Campo       | [Pixabay](https://pixabay.com/)                   | Gratuita              |
