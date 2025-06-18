@@ -1,9 +1,10 @@
 # 🌾 Projeto Agrinho 2025 - **"Festejando Conexão Campo e Cidade"** 🏙️
 
-## Deploy - Recomenda-se acessar o projeto por um dos links abaixo
+## ▶️ Deploy / Como Executar o Projeto
  *   [GitHub Pages](link)
  *   [Vercel](link)
  *   [p5.js Editor - Tela Cheia](link)
+ *   É recomendado que o projeto seja acessado atraves do deploy para evitar sobreposicões de elementos. caso projeto seja aberto pelo p5.js recomenda-se que abra em tela cheia.
 
 ---
 ![Foto do Projeto](agrinho2025.png)
@@ -100,7 +101,7 @@ Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de
 - Uso de **classes** (`Carta`, `BotaoRedondo`, `Foguinho`) para modelar os elementos do jogo, encapsulando propriedades e comportamentos e promovendo a reutilização de código.
 
 ---
-## 📚 Links Úteis para Estudo e Consulta
+## 📚 Links usados para consulta e aprofundamento:
 
 Para o desenvolimento do projeto e consulta de recursos foi utilizado:
 
@@ -111,15 +112,6 @@ Para o desenvolimento do projeto e consulta de recursos foi utilizado:
     * [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
-
-▶️ Como Executar o Projeto
-É muito simples interagir, basta acessar um dos links abaixo:
-
-link do githubpages adicionar
-link do vercel adicionar
-
-É recomendado que o projeto seja acessado atraves do deploy para evitar sobreposicões de elementos caso projeto seja copiado e colocado no p5.js editor
-Interaja com o projeto, sigua as intrucoes presentes e descubra a Conexão Campo-Cidade em ação!
 
 🎵 **Atribuição de Imagens e Sons**  
 Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e sonoros de fontes livres, seguindo as melhores práticas de atribuição.
