@@ -158,4 +158,6 @@ Como o Markdown ignora target="_blank", use clique com a scroll do mouse para ac
 | Passarinho   | [Pixabay](https://pixabay.com/pt/sound-effects/passarinho-325866/)               | gratuita      |
 
 ---
+🎶 **video:**
+Criação própria, necessario usar [Freeconvert](https://www.freeconvert.com/pt/video-compressor) para diminuir qualidade do video, caso contrario não seria possivel fazer upload. Tentei colocar através do youtube não deu certo, pois era video mto curto entrou em shorts e o youtube não estava autorizando a incorporação....
 
